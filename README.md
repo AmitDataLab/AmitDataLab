@@ -1,5 +1,5 @@
 # 💫 About Me:
-BCA 1st Year Student  <br>Aspiring Data Scientist  <br>Python | SQL | ML  <br>Creator of AI & Data Projects 🚀
+BCA 1st Year Student  <br>Aspiring Data Scientist  <br>Python | NUMPY |  <br>Creator of AI & Data Projects 🚀
 
 
 ## 🌐 Socials:
